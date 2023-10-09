@@ -1,4 +1,4 @@
-# BoletimNotas
+# BoletimEscolar
 
 Este site foi desenvolvido quando eu estava no segundo ano do meu curso de TII. 
 No campo de entrada, o usuário deve digitar um valor numérico, que estaria a quantidade de alunos que ele gostaria de cadastrar.
