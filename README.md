@@ -1,4 +1,4 @@
-# BoletimEscolar
+# Boletim Escolar
 
 Este site foi desenvolvido quando eu estava no segundo ano do meu curso de TII. 
 
